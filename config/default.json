@@ -1,0 +1,8 @@
+{
+    "port": 3000,
+    "mailgun": {
+        "from": "deranged mailthing <mailthing@mailthing.deranged.dk>",
+        "domain": "mailthing.deranged.dk",
+        "apiKey": "please-supply-this-in-env"
+    }
+}

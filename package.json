@@ -1,0 +1,18 @@
+{
+  "name": "deranged-opportunities-api",
+  "version": "0.1.0",
+  "description": "deranged opportunities api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node start"
+  },
+  "author": "Niels Abildgaard <niels@deranged.dk>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "config": "^1.26.1",
+    "express": "^4.15.3",
+    "mailgun-mustache-mailer": "0.0.1"
+  }
+}
